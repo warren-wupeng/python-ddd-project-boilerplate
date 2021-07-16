@@ -131,3 +131,9 @@ dmypy.json
 # Mac
 .DS_Store
 .idea
+.venv
+.mypy_cache
+__pycache__
+*.egg-info
+.env
+venv
