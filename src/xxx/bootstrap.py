@@ -7,7 +7,7 @@ from xxx.adapters.notifications import (
     AbstractNotifications,
     EmailNotifications,
 )
-from xxx.service_layer import handlers, messagebus, unit_of_work
+from xxx.application import handlers, messagebus, unit_of_work
 
 
 def bootstrap(
